@@ -1,6 +1,6 @@
 ## About Me
 
-Hello! I'm Manel Royo, a seasoned Technical Product Manager with a specialization in mobile apps and cloud-based business applications. I'm currently immersed in the exciting realm of the new version of Kriter ERP and RepCamp, where I contribute to the development and enhancement of Cloud and mobile applications for representatives.
+Hello! I'm Manel Royo, a seasoned Technical Product Manager with a specialization in cloud-based business applications. I'm currently immersed in the exciting realm of the new version of Kriter ERP and RepCamp, where I contribute to the development and enhancement of Cloud and mobile applications for representatives.
 
 ## Professional Journey
 
@@ -17,8 +17,6 @@ I am actively contributing to the new version of Kriter ERP, focusing on refinin
 My involvement extends to RepCamp, a cloud and mobile application designed for representatives. In this project, I'm dedicated to crafting solutions that seamlessly blend the power of cloud computing with the flexibility and accessibility of mobile apps.
 
 ## Technologies and Expertise
-
-- **Mobile App Development:** Proficient in creating intuitive and effective mobile applications.
   
 - **Cloud-Based Solutions:** Specialized in developing business applications that harness the power of cloud computing.
   
@@ -34,4 +32,4 @@ Feel free to connect with me to discuss anything related to mobile app developme
 
 [LinkedIn]([https://www.linkedin.com/in/manelroyo/) 
 
-Let's build the future of software together! 🚀
+
